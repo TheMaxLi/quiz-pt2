@@ -1,0 +1,33 @@
+
+body {
+  background-color: #CCFFCC;
+  color: #B00058;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Aclonica';
+  font-size: 22px;
+}
+
+#red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.underline{
+  text-decoration: underline;
+  text-decoration-color: #F47770;
+}
+
+.linethrough{
+  text-decoration: line-through;
+  text-decoration-color: #A8081E;
+}
+
+.standard {
+  font-size: 10;
+  color: #000000
+}
